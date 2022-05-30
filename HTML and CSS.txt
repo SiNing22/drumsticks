@@ -1,0 +1,35 @@
+<i> = italise 
+<em> = emphasize and more important
+
+<b> = bold
+<strong> = Bold and important
+
+pHOTOBUCKET =for getting ur own url image of u.
+crop.circle.imageonline.co
+colorhunt.co -css colors
+flaticon - icons
+giphy = select stickers - good for bg
+
+display:
+-inline: can't change width (img, a, span?)
+-block: can change width
+-inline-block: best of both worlds
+-none: makes block disappear 
+ALT: visibility: same but still there
+
+position:
+-static
+-relative (push) (coordinates:top,right,bottom,left)
+-absolute (child)
+-fixed (fixed when scrolling down) ex: nav bar
+
+Centering:
+text-align: centers in div or parent and works
+with in-line elemnets such as img or anchor.
+
+if block elements: use margin: 0 auto 0 auto;
+
+Font sizing Rules:
+16px (Non-Dynamic) = 100% or 1em (Dynamic -scales with web font size changing) 
+USE rem (most adaptable as it ignores the parents and can change according
+to the scale's changes in browsers and least affected to errors.
